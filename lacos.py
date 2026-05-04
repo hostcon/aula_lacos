@@ -1,1 +1,1 @@
-
+print("Isso é fácil")
